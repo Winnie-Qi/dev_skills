@@ -47,3 +47,9 @@ print(np.array([1, 2, 3]) ** 2)
 
 ### 我可以在IDE上使用我建立的虚拟环境
 <img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+
+欧拉公式可以表示为 $e^{i\pi} + 1 = 0$，这是一个著名的等式。
+
+$$
+e^{i\pi} + 1 = 0
+$$
